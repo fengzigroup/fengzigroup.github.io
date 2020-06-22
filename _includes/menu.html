@@ -1,0 +1,35 @@
+{% if include.context "mobile" %}
+	{% assign menu_token = "1" %}
+{% else %}
+	{% assign menu_token = "2" %}
+{% endif %}
+	<h2 class="hidden-sm-down"><a href="/" rel="home">{{ site.name }}</a></h2>
+	<!-- <p style="text-align:center;"><img src="assets/member/photo.jpg" height="250" width="250"></p> -->
+	<nav role="navigation">
+		<label class="pure-toggle-label hidden-md-up" for="pure-toggle-left" data-toggle-label="left"><span class="pure-toggle-icon"></span></label>
+		<ul class="nav navigation">
+			<li class="hidden-md-up"><a href="/" rel="home">Home</a></li>
+			{% for item in site.menu %}
+				{% if item.links %}
+					<li>
+						<a href="{{ item.url }}">{{ item.page }}</a>
+						<a href="#" id="btn-{{ menu_token }}{{ item.url | replace: '/', ''  }}" data-toggle="collapse" data-target="#submenu-{{ menu_token }}{{ item.url | replace: '/', ''  }}" aria-expanded="false"></a>
+					</li>
+					<ul class="collapse" id="submenu-{{ menu_token }}{{ item.url | replace: '/', ''  }}" role="menu" aria-labelledby="btn-{{ menu_token }}{{ item.url | replace: '/', ''  }}">
+					{% for link in item.links %}
+						<li><a href="{{ item.url }}{{ link.url }}">{{ link.title }}</a></li>
+					{% endfor %}
+					</ul>
+				{% else %}
+					<li><a href="{{ item.url }}">{{ item.page }}</a></li>
+				{% endif %}
+			{% endfor %}
+		</ul>
+		<aside class="external_links">
+			<ul class="nav">
+			{% for item in site.menu_external %}
+				<li><a href="{{ item.url }}" target="_blank">{{ item.title }}</a></li>
+			{% endfor %}
+			</ul>
+		</aside>
+	</nav>
