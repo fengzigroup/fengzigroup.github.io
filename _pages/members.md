@@ -16,4 +16,5 @@ date: 2020-06-22
 + <img src="./assets/member/ztg.jpg" alt="ztg" style="zoom: 14%;" />	[Tenggan Zhang](/zhangtenggan.html)
 + <img src="./assets/member/wrf.png" alt="wrf" style="zoom: 110%;" />	Ruofan Wu
 + <img src="./assets/member/fzj.png" alt="fzj" style="zoom: 100%;" />	Zhengjie Fang
++ <img src="./assets/member/xqy.png" alt="xqy" style="zoom: 100%;" />	Qingyu Xu
 
