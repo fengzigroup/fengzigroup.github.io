@@ -15,7 +15,7 @@ menu:
    url: /joinUs.html
 menu_external:
  - title: Github
-   url: "https://github.com/fengzhangcs"
+   url: "https://github.com/fengzigroup?tab=repositories"
 
 include:
   - _pages
