@@ -28,3 +28,5 @@ date: 2020-06-22
 + <img src="/assets/member/fzj.png" alt="fzj" style="zoom: 100%;" />	Zhengjie Fang
 
 + <img src="/assets/member/xqy.png" alt="xqy" style="zoom: 17%;" />	Qingyu Xu
+
++ <img src="/assets/member/zy.jpg" alt="zy" style="zoom: 17%;" />	Yu Zhang
