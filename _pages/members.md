@@ -29,4 +29,4 @@ date: 2020-06-22
 
 + <img src="/assets/member/xqy.png" alt="xqy" style="zoom: 17%;" />	Qingyu Xu
 
-+ <img src="/assets/member/zy.jpg" alt="zy" style="width:200px;" />	Yu Zhang
++ <img src="/assets/member/zy.jpg" alt="zy" style="width:120px;" />	Yu Zhang
