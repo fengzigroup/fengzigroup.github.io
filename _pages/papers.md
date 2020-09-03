@@ -5,6 +5,10 @@ layout: default
 date: 2020-06-22
 ---
 
+**[NPC’20]** “Payment Behavior Prediction and Statistical Analysis for Shared Parking Lots”, Qingyu Xu, Feng Zhang, Mingde Zhang, Jidong Zhai, Jiazao Lin,Haidi Liu, Xiaoyong Du. International Conference on Network and Parallel Computing (NPC 2020).
+
+**[VLDBJ’20]** “TADOC: Text Analytics Directly on Compression”, Feng Zhang, Jidong Zhai, Xipeng Shen, Dalin Wang, Zheng Chen, Onur Mutlu, Wenguang Chen, Xiaoyong Du. VLDB Journal.
+
 **[ICPP’20]** “CapelliniSpTRSV: A Thread-Level Synchronization-Free Sparse Triangular Solve on GPUs”, Jiya Su, Feng Zhang, Weifeng Liu, Bingsheng He, Ruofan Wu, Xiaoyong Du, Rujia Wang. The 49th International Conference on Parallel Processing (ICPP 2020), 17-20 August 2020, Edmonton, AB, Canada.
 
 **[ICPP’20]** “ParSecureML: An Efficient Parallel Secure Machine Learning Framework on GPUs”, Zheng Chen, Feng Zhang, Amelie Chi Zhou, Jidong Zhai, Chenyang Zhang, Xiaoyong Du. The 49th International Conference on Parallel Processing (ICPP 2020), 17-20 August 2020, Edmonton, AB, Canada.
