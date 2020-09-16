@@ -41,8 +41,8 @@ date: 2020-06-22
 
 ### Alumni
 
-+ [Tenggan Zhang](/zhangtenggan.html)
++ [Tenggan Zhang](/zhangtenggan.html) (Renmin University of China)
 
-+ [Ningxuan Feng](/fengningxuan.html)
++ [Ningxuan Feng](/fengningxuan.html) (RUC -> PhD, Tsinghua University)
 
-+ [Lin Yang](http://iir.ruc.edu.cn/~yangl/)
++ [Lin Yang](http://iir.ruc.edu.cn/~yangl/) (Chengdu Jinniuqu Rencaiyinjin)
