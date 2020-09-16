@@ -30,3 +30,13 @@ date: 2020-06-22
 + <img src="/assets/member/xqy.png" alt="xqy" style="zoom: 17%;" />	Qingyu Xu
 
 + <img src="/assets/member/zy.jpg" alt="zy" style="zoom: 80%;" />	Yu Zhang
+
++ Yanliang Zhou
+
++ Chenyang Zhang
+
++ Xiaoguang Guo
+
++ Mingde Zhang
+
++ Zaifeng Pan
