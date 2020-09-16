@@ -13,8 +13,6 @@ date: 2020-06-22
 
 + Zheng Chen
 
-+ Jiya Su
-
 + Dalin Wang
 
 + [Weitao Wan](/wanweitao.html)
@@ -46,3 +44,5 @@ date: 2020-06-22
 + [Ningxuan Feng](/fengningxuan.html) (RUC -> PhD, Tsinghua University)
 
 + [Lin Yang](http://iir.ruc.edu.cn/~yangl/) (Chengdu Jinniuqu Rencaiyinjin)
+
++ Jiya Su (RUC -> PhD, Illinois Institute of Technology)
