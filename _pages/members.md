@@ -43,6 +43,6 @@ date: 2020-06-22
 
 + [Tenggan Zhang](/zhangtenggan.html)
 
-+ [Ningxuan Feng (HPC and graph computing)](/fengningxuan.html)
++ [Ningxuan Feng](/fengningxuan.html)
 
-+ [Lin Yang (Stream processing systems)](http://iir.ruc.edu.cn/~yangl/)
++ [Lin Yang](http://iir.ruc.edu.cn/~yangl/)
