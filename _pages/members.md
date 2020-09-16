@@ -9,40 +9,40 @@ date: 2020-06-22
 
 + [Dr.Feng Zhang](https://fengzhangcs.github.io/)
 
-### Current Students
+### Current Members
 
-+ Zheng Chen (Heterogeneous computing) (Master)
++ Zheng Chen
 
-+ Jiya Su (Machine learning) (Master)
++ Jiya Su
 
-+ Dalin Wang (Intelligent database systems) (Master)
++ Dalin Wang
 
-+ [Weitao Wan](/wanweitao.html) (Undergraduate)
++ [Weitao Wan](/wanweitao.html)
 
-+ Yani Liu (Undergraduate)
++ Yani Liu
 
-+ Ruofan Wu (Undergraduate)
++ Ruofan Wu
 
-+ Zhengjie Fang (Undergraduate)
++ Zhengjie Fang
 
-+ Qingyu Xu (Undergraduate)
++ Qingyu Xu
 
-+ Yu Zhang (Undergraduate)
++ Yu Zhang
 
-+ Yanliang Zhou (Undergraduate)
++ Yanliang Zhou
 
-+ Chenyang Zhang (Undergraduate)
++ Chenyang Zhang
 
-+ Xiaoguang Guo (Undergraduate)
++ Xiaoguang Guo
 
-+ Mingde Zhang (Undergraduate)
++ Mingde Zhang
 
-+ Zaifeng Pan (Undergraduate)
++ Zaifeng Pan
 
 ### Alumni
 
-+ [Tenggan Zhang](/zhangtenggan.html) Renmin University of China, Beijing
++ [Tenggan Zhang](/zhangtenggan.html)
 
-+ [Ningxuan Feng (HPC and graph computing)](/fengningxuan.html)  (PhD 2020), Tsinghua University, Beijing
++ [Ningxuan Feng (HPC and graph computing)](/fengningxuan.html)
 
-+ [Lin Yang (Stream processing systems)](http://iir.ruc.edu.cn/~yangl/) Start an Undertaking, Sichuan, China
++ [Lin Yang (Stream processing systems)](http://iir.ruc.edu.cn/~yangl/)
