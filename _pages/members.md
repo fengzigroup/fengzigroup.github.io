@@ -5,38 +5,44 @@ layout: default
 date: 2020-06-22
 ---
 
-+ <img src="/assets/member/zf.jpg" alt="zf" style="zoom: 67%;" />	[Dr.Feng Zhang](https://fengzhangcs.github.io/)
+### Faculties
 
-+ <img src="/assets/member/yl.jpg" alt="yl" style="zoom: 72%;" />	[Lin Yang (Stream processing systems)](http://iir.ruc.edu.cn/~yangl/) 
++ [Dr.Feng Zhang](https://fengzhangcs.github.io/)
 
-+ <img src="/assets/member/fnx.png" alt="fnx" style="zoom: 78%;" />	[Ningxuan Feng (HPC and graph computing)](/fengningxuan.html)
+### Current Students
 
-+ <img src="/assets/member/cz.png" alt="cz" style="zoom: 95%;" />	Zheng Chen (Heterogeneous computing)
++ Zheng Chen (Heterogeneous computing) (Master)
 
-+ <img src="/assets/member/sjy.jpg" alt="sjy" style="zoom: 131%;" />	Jiya Su (Machine learning)
++ Jiya Su (Machine learning) (Master)
 
-+ <img src="/assets/member/wdl.jpg" alt="wdl" style="zoom: 85%;" />	Dalin Wang (Intelligent database systems)
++ Dalin Wang (Intelligent database systems) (Master)
 
-+ <img src="/assets/member/wwt.jpg" alt="wwt" style="zoom:9.1%;" />	[Weitao Wan](/wanweitao.html)
++ [Weitao Wan](/wanweitao.html) (Undergraduate)
 
-+ <img src="/assets/member/lyn.jpg" alt="lyn" style="zoom: 58%;" />	Yani Liu
++ Yani Liu (Undergraduate)
 
-+ <img src="/assets/member/ztg.jpg" alt="ztg" style="zoom: 14%;" />	[Tenggan Zhang](/zhangtenggan.html)
++ Ruofan Wu (Undergraduate)
 
-+ <img src="/assets/member/wrf.png" alt="wrf" style="zoom: 110%;" />	Ruofan Wu
++ Zhengjie Fang (Undergraduate)
 
-+ <img src="/assets/member/fzj.png" alt="fzj" style="zoom: 100%;" />	Zhengjie Fang
++ Qingyu Xu (Undergraduate)
 
-+ <img src="/assets/member/xqy.png" alt="xqy" style="zoom: 17%;" />	Qingyu Xu
++ Yu Zhang (Undergraduate)
 
-+ <img src="/assets/member/zy.jpg" alt="zy" style="zoom: 80%;" />	Yu Zhang
++ Yanliang Zhou (Undergraduate)
 
-+ Yanliang Zhou
++ Chenyang Zhang (Undergraduate)
 
-+ Chenyang Zhang
++ Xiaoguang Guo (Undergraduate)
 
-+ Xiaoguang Guo
++ Mingde Zhang (Undergraduate)
 
-+ Mingde Zhang
++ Zaifeng Pan (Undergraduate)
 
-+ Zaifeng Pan
+### Alumni
+
++ [Tenggan Zhang](/zhangtenggan.html) Renmin University of China, Beijing
+
++ [Ningxuan Feng (HPC and graph computing)](/fengningxuan.html)  (PhD 2020), Tsinghua University, Beijing
+
++ [Lin Yang (Stream processing systems)](http://iir.ruc.edu.cn/~yangl/) Start an Undertaking, Sichuan, China
