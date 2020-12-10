@@ -7,42 +7,42 @@ date: 2020-06-22
 
 ### Faculties
 
-+ [Dr.Feng Zhang](https://fengzhangcs.github.io/)
++ [Dr.Feng Zhang (张峰)](https://fengzhangcs.github.io/)
 
 ### Current Members
 
-+ Zheng Chen
++ Zheng Chen (陈政)
 
-+ Dalin Wang
++ Dalin Wang (王大林)
 
-+ [Weitao Wan](/wanweitao.html)
++ [Weitao Wan (万韦涛)](/wanweitao.html)
 
-+ Yani Liu
++ Yani Liu (刘雅妮)
 
-+ Ruofan Wu
++ Ruofan Wu (乌若凡)
 
-+ Zhengjie Fang
++ Zhengjie Fang (方正杰)
 
-+ Qingyu Xu
++ Qingyu Xu (徐庆羽)
 
-+ Yu Zhang
++ Yu Zhang (张宇)
 
-+ Yanliang Zhou
++ Yanliang Zhou (周炎亮)
 
-+ Chenyang Zhang
++ [Chenyang Zhang (张晨阳)](https://chenyangzhang-cs.github.io/)
 
-+ Xiaoguang Guo
++ Xiaoguang Guo (郭晓光)
 
-+ Mingde Zhang
++ Mingde Zhang (张明德)
 
-+ Zaifeng Pan
++ Zaifeng Pan (潘再峰)
 
 ### Alumni
 
-+ [Tenggan Zhang](/zhangtenggan.html) (Renmin University of China)
++ [Tenggan Zhang (张腾甘)](/zhangtenggan.html) (Renmin University of China)
 
-+ [Ningxuan Feng](/fengningxuan.html) (RUC -> PhD, Tsinghua University)
++ [Ningxuan Feng (冯宁轩)](/fengningxuan.html) (RUC -> PhD, Tsinghua University)
 
-+ [Lin Yang](http://iir.ruc.edu.cn/~yangl/) (Chengdu Jinniuqu Rencaiyinjin)
++ [Lin Yang (杨霖)](http://iir.ruc.edu.cn/~yangl/) (Chengdu Jinniuqu Rencaiyinjin)
 
-+ Jiya Su (RUC -> PhD, Illinois Institute of Technology)
++ Jiya Su (苏吉雅) (RUC -> PhD, Illinois Institute of Technology)
