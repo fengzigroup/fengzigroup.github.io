@@ -5,6 +5,10 @@ layout: default
 date: 2020-06-22
 ---
 
+**[PPoPP’21]** “POSTER: Exploring Deep Reuse in Winograd CNN Inference”, Ruofan Wu, Feng Zhang, Zhen Zheng, Xiaoyong Du, Xipeng Shen. 26th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, Seoul, S. Korea (PPoPP 2021).
+
+**[TPDS’20]** “iMLBench: A Machine Learning Benchmark Suite for CPU-GPU Integrated Architectures”, Chenyang Zhang, Feng Zhang, Xiaoguang Guo, Bingsheng He, Xiao Zhang, and Xiaoyong Du. IEEE Transactions on Parallel and Distributed Systems, 2020. [[CODE] ](https://github.com/ChenyangZhang-cs/iMLBench)[[PDF]](https://ieeexplore.ieee.org/document/9305972)
+
 **[NPC’20]** “Payment Behavior Prediction and Statistical Analysis for Shared Parking Lots”, Qingyu Xu, Feng Zhang, Mingde Zhang, Jidong Zhai, Jiazao Lin,Haidi Liu, Xiaoyong Du. International Conference on Network and Parallel Computing (NPC 2020).
 
 **[VLDBJ’20]** “TADOC: Text Analytics Directly on Compression”, Feng Zhang, Jidong Zhai, Xipeng Shen, Dalin Wang, Zheng Chen, Onur Mutlu, Wenguang Chen, Xiaoyong Du. VLDB Journal.
