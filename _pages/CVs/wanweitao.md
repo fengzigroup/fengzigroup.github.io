@@ -7,7 +7,7 @@ layout: default
 
 <img src="./assets/member/wwt.jpg" alt="wwt" style="zoom:20%;" />
 
-**Email***:* weitaow@ruc.edu.cn
+**Email***:* wanweitao@ruc.edu.cn
 
 I am an undergraduate student in School of Infomation in RUC.
 
