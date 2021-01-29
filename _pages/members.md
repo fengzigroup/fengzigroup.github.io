@@ -15,7 +15,7 @@ date: 2020-06-22
 
 + Dalin Wang (王大林)
 
-+ [Weitao Wan (万韦涛)](/wanweitao.html)
++ Weitao Wan (万韦涛)
 
 + Yani Liu (刘雅妮)
 
