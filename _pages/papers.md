@@ -5,6 +5,11 @@ layout: default
 date: 2020-06-22
 ---
 
+
+**[ICDE’21]** “G-TADOC: Enabling Efficient GPU-Based Text Analytics without Decompression”, Feng Zhang, Zaifeng Pan, Yanliang Zhou, Jidong Zhai, Xipeng Shen, Onur Mutlu, Xiaoyong Du. 37th IEEE International Conference on Data Engineering (ICDE 2021).
+
+**[TPDS’21]** “An Efficient Parallel Secure Machine Learning Framework on GPUs”, Feng Zhang, Zheng Chen, Chenyang Zhang, Amelie Chi Zhou, Jidong Zhai, Xiaoyong Du. IEEE Transactions on Parallel and Distributed Systems, 2021 (TPDS 2021).
+
 **[PPoPP’21]** “POSTER: Exploring Deep Reuse in Winograd CNN Inference”, Ruofan Wu, Feng Zhang, Zhen Zheng, Xiaoyong Du, Xipeng Shen. 26th ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming, Seoul, S. Korea (PPoPP 2021).
 
 **[TPDS’20]** “iMLBench: A Machine Learning Benchmark Suite for CPU-GPU Integrated Architectures”, Chenyang Zhang, Feng Zhang, Xiaoguang Guo, Bingsheng He, Xiao Zhang, and Xiaoyong Du. IEEE Transactions on Parallel and Distributed Systems, 2020. [[CODE] ](https://github.com/ChenyangZhang-cs/iMLBench)[[PDF]](https://ieeexplore.ieee.org/document/9305972)
