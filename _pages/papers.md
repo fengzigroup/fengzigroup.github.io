@@ -5,6 +5,7 @@ layout: default
 date: 2020-06-22
 ---
 
+**[TPDS’21]** “YuenyeungSpTRSV: A Thread-Level and Warp-Level Fusion Synchronization-Free Sparse Triangular Solve”, Feng Zhang, Jiya Su, Weifeng Liu, Bingsheng He, Ruofan Wu, Xiaoyong Du, Rujia Wang. IEEE Transactions on Parallel and Distributed Systems, 2021.
 
 **[ICDE’21]** “G-TADOC: Enabling Efficient GPU-Based Text Analytics without Decompression”, Feng Zhang, Zaifeng Pan, Yanliang Zhou, Jidong Zhai, Xipeng Shen, Onur Mutlu, Xiaoyong Du. 37th IEEE International Conference on Data Engineering (ICDE 2021).
 
