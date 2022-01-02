@@ -11,7 +11,7 @@ date: 2020-06-22
 
 ### Current Members
 
-+ Zheng Chen (陈政)
++ [Zheng Chen (陈政)](https://zhengchencs.github.io/)
 
 + Dalin Wang (王大林)
 
@@ -35,7 +35,7 @@ date: 2020-06-22
 
 + Mingde Zhang (张明德)
 
-+ Zaifeng Pan (潘再峰)
++ [Zaifeng Pan (潘再峰)](https://panzaifeng.github.io/)
 
 ### Alumni
 
